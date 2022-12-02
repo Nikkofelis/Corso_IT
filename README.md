@@ -5,7 +5,7 @@
 3. [Architettura e componenti del PC e periferiche](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/3.%20Architettura%20PC/1.%20Cos_%C3%A8%20un%20Computer.md)
 4. Sistema operativo Windows server e client
 5. [Sistema operativo Linux](https://github.com/Nikkofelis/Corso_IT/blob/e715b89504c2a14e78791056bda7cb0164e5e7a6/5.%20Linux%20OS/0.%20Contents.md)
-6. [Fondamento di networking e technologie TCP/IP](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/6.%20Fondamento%20di%20networking%20e%20tecnologie%20TCP-IP/0.%20Contenuti.md)
+6. [Fondamento di networking e technologie TCP/IP](https://github.com/Nikkofelis/Corso_IT/blob/422e9c6574e6f0e6e101e50fb9af5833f95e6480/6.%20Fondamento%20di%20networking%20e%20tecnologie%20TCP-IP/0.%20Contenuti.md)
 7. Manutenzione e troubleshooting
 8. Apparecchiature biomediche
 9. Introduzione al database
