@@ -1,11 +1,11 @@
 # Corso_IT
 
-1. [Comunicazione interpersonale](Coding/Corso%20IT/1.%20Comunicazione/Introduzione.md), transizione verde e digitale
+1. [Comunicazione interpersonale](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/1.%20Comunicazione/Introduzione.md), transizione verde e digitale
 2. Sicurezza di luoghi di lavoro
-3. [Architettura e componenti del PC e periferiche](1.%20Cos'è%20un%20Computer.md)
+3. [Architettura e componenti del PC e periferiche](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/3.%20Architettura%20PC/1.%20Cos_%C3%A8%20un%20Computer.md)
 4. Sistema operativo Windows server e client
-5. [Sistema operativo Linux](0.%20Contents.md)
-6. [Fondamento di networking e technologie TCP/IP](0.%20Contenuti.md)
+5. [Sistema operativo Linux](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/5.%20Linux%20OS/0.%20Contents.md)
+6. [Fondamento di networking e technologie TCP/IP](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/6.%20Fondamento%20di%20networking%20e%20tecnologie%20TCP-IP/0.%20Contenuti.md)
 7. Manutenzione e troubleshooting
 8. Apparecchiature biomediche
 9. Introduzione al database
