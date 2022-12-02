@@ -15,4 +15,4 @@
 
 - Appendici
   - [Acronimi](https://github.com/Nikkofelis/Corso_IT/blob/267375f1272ff64ae67b450dbb8c9da408b2e9bb/z_Appendici/Acronimi.md)
-  - [Lista di Comandi per Terminal Switch](https://github.com/Nikkofelis/Corso_IT/blob/267375f1272ff64ae67b450dbb8c9da408b2e9bb/z_Appendici/Acronimi.md)
+  - [Lista di Comandi per Terminal Switch](https://github.com/Nikkofelis/Corso_IT/blob/cc9ca9cbe5e369050bc4e263277015f5784fe79d/z_Appendici/Lista%20di%20Comandi%20per%20Terminal%20Switch.md)
