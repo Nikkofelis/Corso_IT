@@ -1,0 +1,8 @@
+- **PC**: client
+- **Server**: device (usually always on) that provide a service
+- **Cluster**: multiple servers linked to a drive. Each server is sync to the other and can offer redundancy in case of fault.
+- **Cloud**
+	- On Premise
+	- Infrastructure as a Service (IaaS)
+	- Platform as a Service (PaaS)
+	- Software as a Service (SaaS): Gmail
