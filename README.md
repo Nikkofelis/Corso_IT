@@ -1,3 +1,14 @@
+# BANNER
+
+[Nuovo Link agli appunti](https://github.com/Nikkofelis/Corso_IT_v2)
+
+## Changelog
+
+- Appunti aggiornati QUASI ad ogni lezione
+- Ogni link funzionante
+- Una singola cartella per contenere TUTTI i file (sembra più incasinato, ma tutti i singoli file sono collegati ad altri) (si possono raggiungere tutti i file partendo da qualunque altro file)
+- Aggiunte Map of Contents (MoC) per ogni corso
+
 # Corso_IT
 
 1. [Comunicazione interpersonale](https://github.com/Nikkofelis/Corso_IT/blob/6b60b7179c5b9f22de97bee7e6e8652752e9c2c3/1.%20Comunicazione/Introduzione.md), transizione verde e digitale
